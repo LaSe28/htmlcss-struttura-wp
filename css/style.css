@@ -5,7 +5,7 @@
 }
 
 .container{
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -30,4 +30,25 @@ header{
 footer{
     height: 65px;
     background-color: purple;
+}
+
+.section-main{
+    height: 15%;
+    background-color: lightblue;
+    margin-bottom: 1.5em;
+}
+
+.section{
+    background-color: lightblue;
+    height: calc(85% - 2.5em);
+    float: left;
+}
+
+.center{
+    width: 60%;
+    margin: 0 1em;
+}
+
+.side{
+    width: calc(20% - 1em );
 }
