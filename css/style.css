@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+header{
+    margin: 2em 0 ;
+    background-color: violet;
+    height: 130px;
+}
+
+.first{
+    background-color: sandybrown;
+    height: 390px;
+    margin: 2em 0;
+}
+
+.second{
+    background-color: rgb(59, 135, 240);
+    height: 450px;
+    margin-bottom: 1em;
+}
+
+footer{
+    height: 65px;
+    background-color: purple;
+}
