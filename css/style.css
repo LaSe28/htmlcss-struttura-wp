@@ -30,6 +30,7 @@ header{
 footer{
     height: 65px;
     background-color: purple;
+    margin-bottom: 2em;
 }
 
 .section-main{
